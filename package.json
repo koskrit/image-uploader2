@@ -17,6 +17,9 @@
   },
   "dependencies": {
     "@lekoarts/gatsby-theme-cara": "^1.2.18",
+    "filepond": "^4.25.2",
+    "filepond-plugin-image-exif-orientation": "^1.0.9",
+    "filepond-plugin-image-preview": "^4.6.5",
     "gatsby": "^2.25.3",
     "gatsby-plugin-gatsby-cloud": "^1.0.1",
     "gatsby-plugin-google-analytics": "^2.4.1",
@@ -25,7 +28,8 @@
     "gatsby-plugin-offline": "^3.3.3",
     "gatsby-plugin-webpack-bundle-analyser-v2": "^1.1.13",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.13.1",
+    "react-filepond": "^7.1.1"
   },
   "devDependencies": {
     "cross-env": "^7.0.2"
